@@ -43,3 +43,7 @@ h1 {
 a:hover {
     background-color: lightblue;
 }
+
+footer img {
+    width: 500px;
+}
