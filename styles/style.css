@@ -1,0 +1,45 @@
+* {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+#top-of-page img{
+    width: 500px;
+    height: 500px;
+}
+
+#top-of-page p{
+    border-style: double;
+}
+
+#box-story img{
+    border-style: solid;
+    border-radius: 5px;
+}
+
+#box-subcontent{
+    border-style: double;
+}
+
+#end-of-page{
+    margin: 0 auto;
+}
+
+.subtitle {
+    color: purple;
+}
+
+[href] {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+
+a:hover {
+    background-color: lightblue;
+}
